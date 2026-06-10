@@ -1,4 +1,4 @@
-### Garcierjen's README.md
+### Garcier's README.md
 
 - **Interested programming languages :** 
  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript"/>&nbsp;&nbsp;
