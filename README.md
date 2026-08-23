@@ -1,4 +1,4 @@
-![>](https://img.shields.io/badge/%3E-Garcierjen's%20MD-blue?style=for-the-badge)
+[![>](https://img.shields.io/badge/%3E-Garcierjen's%20MD-blue?style=for-the-badge)](https://github.com/Garcierjen)
 
 - **Interested programming languages :**
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
