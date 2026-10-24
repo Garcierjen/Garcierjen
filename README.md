@@ -31,7 +31,10 @@ local Garcierjen = {
         "Bash"
     },
     Bio = "Your typical linux larper, pls follow my tiktok.",
-    Device = "Lenovo Thinkpad X1 Carbon 8th Generation",
+    Device = {
+        "Lenovo Thinkpad X1 Carbon 8th Generation",
+        "Lenovo Thinkcentre with RX570 in it"
+    },
     Distro = "Debian"
 }
 ```
